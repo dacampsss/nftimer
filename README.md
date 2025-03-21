@@ -1,11 +1,11 @@
 # Non-Free Timer (nftimer)
-As a joke as it may seem: if you, as a individual, are using a timer like this. Well... We are not free, folk (not as free as this free-as-in-freedom-copylefted software, yay)!
+As a joke as it may seem: if you, as a individual, are using a timer like this. Well... We are not free, people (not as free as this free-as-in-freedom-copylefted software, yay)!
 
 This project is a fork of TimeCase. It is (or will be) my re-learning project, as I was a PHP developer some years ago. I pretend to update and modernize this project with a nicer frontend, more update libraries and PHP version etc. So, some ideas to keep track:
 
 - Update to the latest (and safest) PHP version, considering even replacing libraries if needed;
 - Modernized UI using Svelte (without runes cause I'm a noob);
-- Translations (cause a lot and folks and I ain't english native speakers)!
+- Translations (cause a lot of people like me ain't english native speakers)!
 - Maybe... Debian and Arch/AUR packages, to facilitate the setup in Linux servers?
 
 Below follows the original TimeCase readme.
